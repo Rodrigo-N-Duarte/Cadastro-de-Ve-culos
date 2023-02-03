@@ -1,0 +1,15 @@
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\bin\Debug\net6.0\CadastroDeVeiculos.exe
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\bin\Debug\net6.0\CadastroDeVeiculos.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\bin\Debug\net6.0\CadastroDeVeiculos.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\bin\Debug\net6.0\CadastroDeVeiculos.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\bin\Debug\net6.0\CadastroDeVeiculos.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.csproj.AssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\refint\CadastroDeVeiculos.dll
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\CadastroDeVeiculos.genruntimeconfig.cache
+C:\Users\duart\OneDrive\Área de Trabalho\CadastroDeVeiculos\CadastroDeVeiculos\obj\Debug\net6.0\ref\CadastroDeVeiculos.dll
